@@ -16,8 +16,8 @@ HOSTED_BOTS_DIR = "/opt/hosted-bots"
 LOGS_DIR = "/var/log/bot-manager"
 
 # ============ LIMITS ============
-MAX_BOTS = 10           # Maximum bots per user
-MAX_ZIP_SIZE_MB = 50    # Max zip file size in MB
+MAX_BOTS = 100           # Maximum bots per user
+MAX_ZIP_SIZE_MB = 500    # Max zip file size in MB
 START_VIDEO_URL = "https://files.catbox.moe/k099rv.mp4"
 
 # ============ DEPLOYMENT ============
