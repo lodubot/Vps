@@ -5,7 +5,7 @@ Edit this file with your bot token and admin IDs
 
 # ============ BOT SETTINGS ============
 # Get token from @BotFather on Telegram
-BOT_TOKEN = "8934169763:AAHQnF5TdHqirXqR-UvW-hLfLUBCsjBF2LY"
+BOT_TOKEN = "8934169763:AAGScrCMAB31fD3ON-1Ci7tKab1lldCfg5s"
 
 # Admin Telegram User IDs (comma separated)
 # Get your ID from @userinfobot
